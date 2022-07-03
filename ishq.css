@@ -1,0 +1,29 @@
+h1{
+    background-color: bisque;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.image{ 
+        width: 100%;
+        height: auto;
+        background-color: aquamarine;
+        text-align:center;
+        
+}
+
+thead{
+        background-color: brown
+}
+
+tbody{
+       background-color: #ffc;
+}
+
+.clear{
+          background-color: red;
+}
+.text{
+    text-align: justify;
+}
+
